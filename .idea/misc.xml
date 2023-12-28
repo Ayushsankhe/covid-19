@@ -3,6 +3,33 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/admin_covid/src/main/res/layout/activity_main.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/ambulance/drawable/ic_calendar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/ambulance/drawable/ic_email.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/ambulance/drawable/ic_telephone.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/ambulance/drawable/ic_unlock.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/ambulance/drawable/ic_user.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/_72_pin.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/add.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/approved.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/avoid_contact.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/blood.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/boy.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/clean_pets.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/custom_btn.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/custom_radius.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/delete.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/eat_healthy.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/edit.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/girl.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/gradient_green_blue.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/hand_wash.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/heart_disease.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/ic__coronaviures.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/ic_malaysia.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/drawable/ic_virus.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/covid-19/app/src/main/res/layout/activity_book_appointment.xml" value="0.1675925925925926" />
         <entry key="..\:/abc id/covid/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/abc id/covid/app/src/main/res/layout/activity_profile.xml" value="0.1" />
         <entry key="..\:/abc id/covid/app/src/main/res/layout/activity_register.xml" value="0.1" />

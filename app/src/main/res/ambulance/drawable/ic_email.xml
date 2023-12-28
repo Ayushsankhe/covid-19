@@ -15,11 +15,11 @@
           android:endX="512"
           android:type="linear">
         <item android:offset="0" android:color="#FF00F38D"/>
-        <item android:offset="1" android:color="#FF009EFF"/>
+        <item android:offset="1" android:color="#FF09EFF"/>
       </gradient>
     </aapt:attr>
   </path>
   <path
       android:pathData="m397.188,119.984h-282.375c-24.16,0 -43.813,19.652 -43.813,43.813v184.406c0,24.16 19.652,43.813 43.813,43.813h282.375c24.156,0 43.813,-19.656 43.813,-43.813v-184.406c0,-24.16 -19.652,-43.813 -43.813,-43.813zM392.77,149.984 L256,251.711 119.23,149.984zM397.188,362.016h-282.375c-7.617,0 -13.813,-6.195 -13.813,-13.813v-174.391l155,115.289 155,-115.289v174.391c0,7.617 -6.195,13.813 -13.813,13.813zM397.188,362.016"
-      android:fillColor="#fff"/>
+      android:fillColor="#fff000"/>
 </vector>

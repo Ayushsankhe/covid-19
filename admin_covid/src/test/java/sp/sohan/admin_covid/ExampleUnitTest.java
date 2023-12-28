@@ -1,4 +1,4 @@
-package ay.ayush.admin_covid;
+package sp.sohan.admin_covid;
 
 import org.junit.Test;
 

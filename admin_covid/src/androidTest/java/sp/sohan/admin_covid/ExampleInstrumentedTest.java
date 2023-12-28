@@ -1,4 +1,4 @@
-package ay.ayush.admin_covid;
+package sp.sohan.admin_covid;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ay.ayush.admin_covid", appContext.getPackageName());
+        assertEquals("sp.sohan.admin_covid", appContext.getPackageName());
     }
 }

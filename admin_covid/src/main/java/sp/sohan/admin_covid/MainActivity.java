@@ -1,8 +1,10 @@
-package ay.ayush.admin_covid;
+package sp.sohan.admin_covid;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import ay.ayush.admin_covid.R;
 
 public class MainActivity extends AppCompatActivity {
 
